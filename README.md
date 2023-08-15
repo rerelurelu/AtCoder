@@ -3,13 +3,21 @@
 
 # cargo competeの使い方
 - 回答テンプレ作成
-`cargo compete new abc196`
+```
+cargo compete new abc196
+```
 
 - 問題のブラウザを開く
-`cargo compete open`
+```
+cargo compete open
+```
 
 - テスト
-`cargo compete test a`
+```
+cargo compete test a
+```
 
 - 提出
-`cargo compete submit a`
+```
+cargo compete submit a
+```
